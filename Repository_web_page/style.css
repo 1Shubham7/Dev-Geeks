@@ -209,7 +209,7 @@ body {
 
 .footer-sec{
     background-color: #170F1E;
-    padding-bottom: 20px;
+    padding-bottom: 30px;
     padding-top: 20px;
     color: #E5E1E6;
 }
@@ -231,16 +231,16 @@ body {
     font-size: 15px;
 }
 
-.footer-about{
-    font-size: 15px;
+.footer-contribute{
+    text-align: center;
+    justify-content: center;
 }
 
-.footer-about{
-    font-size: 15px;
+.footer-follow{
 }
 
-.footer-about{
-    font-size: 15px;
+.footer-subscribe{
+    font-size: 10px;
 }
 
 .footer-bottom{
